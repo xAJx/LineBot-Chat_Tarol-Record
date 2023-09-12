@@ -8,7 +8,7 @@
 <br/>
 
 '''
-### AJ-Tarol-LineBot_basic_ 條碼 _ID_:  
+### AJ-Tarol-LineBot _basic_ 條碼 _ID_:  
 ### @760qdhvn
 '''
 <br/>
