@@ -5,14 +5,13 @@
 ## 2. *每重新開一次 ngrok，Webhook URL 必須跟著設定最新的，請參考 https://developers.line.biz/console/
 ## 、https://developers.line.biz/console/channel/自己的channel-id/
 ## 3. *在使用這六個 linebot 按鈕時，ngrok 必須一直開著*
-<br/>
-
+-----------------------------------------
 '''
 ### AJ-Tarol-LineBot _basic_ 條碼 _ID_:  
 ### @760qdhvn
 '''
 <br/>
-
+------------------------------------------
 #### code 裡面 line_bot_api = LineBotApi('自己的 Channel access token') # Line-GUI_Channel access token
 <br/>
 
