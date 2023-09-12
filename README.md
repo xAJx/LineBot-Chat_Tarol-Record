@@ -15,10 +15,13 @@
 
 #### code 裡面 line_bot_api = LineBotApi('自己的 Channel access token') # Line-GUI_Channel access token
 <br/>
+
 #### code 裡面 handler = WebhookHandler('自己的 Channel secret') # Line-GUI_Channel secret
 <br/>
+
 #### code 裡面 audiourl = 'https://自己最新的.ngrok.io/static/' # ngrok。 聲音
 <br/>
+
 #### code 裡面 videourl = 'https://自己最新的.ngrok.io/static/' # ngrok。 影像
 <br/>
 
