@@ -6,6 +6,7 @@
 
 ### 、https://developers.line.biz/console/channel/自己的channel-id/
 ### 3. *在使用這六個 linebot 按鈕時，ngrok 必須一直開著*
+
 -----------------------------------------
 ### AJ-Tarol-LineBot _basic_ 條碼 _ID_:  
 ### @760qdhvn
