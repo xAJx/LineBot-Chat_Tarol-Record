@@ -21,7 +21,6 @@
 <br>
 
 #### IV. code 裡面 videourl = 'https://自己最新的.ngrok.io/static/' # ngrok。 影像
-#### IV-2. Tarot_landscape.mp4 即使壓縮過後還是超過 25MB，無法上傳
 <br>
 
 ### *首先在 _imgur_ 網站上* 存放44張圖片，並透過 _imgur_ 產生每張gif 的網址
