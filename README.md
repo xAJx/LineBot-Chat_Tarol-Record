@@ -1,5 +1,4 @@
-# _LineBot-Chat_Tarol-Record_
-## _塔羅牌每日運勢、抽卡紀錄 (PostgreSQL_pgAdmin4)_
+# _塔羅牌每日運勢、抽卡紀錄 (PostgreSQL_pgAdmin4)_
 
 ### 1. *須先自行 安裝 ngrok*
 ### 2. *每重新開一次 ngrok，Webhook URL 必須跟著設定最新的，請參考    https://developers.line.biz/console/
