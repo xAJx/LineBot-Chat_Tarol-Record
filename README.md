@@ -1,5 +1,3 @@
-- ##### sd
-
 # _塔羅牌每日運勢、抽卡紀錄 (PostgreSQL_pgAdmin4)_
 
 ### 1. *須先自行 安裝 ngrok*
